@@ -1,0 +1,37 @@
+.btn-blue {
+	 background-color: blueviolet ;
+	 color: white;
+	 padding: 15px 20px;
+	 border-radius: 4px ;
+	 font-weight: bold;
+	 font-family: 'Roboto', sans-serif;
+}
+
+button {
+	all:unset;
+	font-family:Helvetica,Arial,sans-serif;
+	max-width:100%;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	background-color:#0445AF;
+	color:#FFFFFF;
+	font-size:20px;
+	border-radius:25px;
+	padding:0 33px;
+	font-weight:bold;
+	height:50px;
+	cursor:pointer;
+	line-height:50px;
+	text-align:center;
+	margin:0;
+	text-decoration:none;
+}
+
+#audit-button {
+	font-weight: none;
+	font-size: 16px;
+	padding: 0px 5px;
+	width: 100 px;
+	display: inline-block;
+
+}
